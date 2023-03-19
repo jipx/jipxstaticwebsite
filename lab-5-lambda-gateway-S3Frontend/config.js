@@ -1,0 +1,1 @@
+var API_ENDPOINT_URL_STR = "https://k6qb4adsvj.execute-api.us-east-1.amazonaws.com/Prod";
